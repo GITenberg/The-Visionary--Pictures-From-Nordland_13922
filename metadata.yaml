@@ -1,0 +1,35 @@
+_repo: The-Visionary--Pictures-From-Nordland_13922
+_version: 0.1.0
+alternative_title: Den Fremsynte. English
+contributor:
+  translator:
+    agent_name: Muir, Jessie
+    alias: Muir, J.
+    gutenberg_agent_id: '6340'
+    url: http://www.gutenberg.org/2009/agents/6340
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: 'Translation of: Den Fremsynte'
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Fiction'
+title: 'The Visionary: Pictures From Nordland'
+url: http://www.gutenberg.org/ebooks/13922
