@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5095
     wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
 description: 'Translation of: Den Fremsynte'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13922#The-Visionary--Pictures-From-Nordland
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
